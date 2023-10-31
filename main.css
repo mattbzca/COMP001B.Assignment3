@@ -16,7 +16,8 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	float: left;
+	width: 13.8%;
 }
 
 footer {
@@ -32,15 +33,19 @@ img {
 }
 
 main {
-
+	float: left;
+	width: 29%;
+	margin-right: 2%;
 }
 
 nav {
-
+	float: left;
+	width: 7%;
 }
 
 #copyright {
 	font-size: 80%;
+	clear: both;
 }
 
 #main-container {
